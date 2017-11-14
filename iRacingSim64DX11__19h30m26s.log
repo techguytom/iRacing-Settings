@@ -1,0 +1,32 @@
+UTC: 15-Jul-2017 00:33:51  
+App Name/Ver: iRacing.com Simulator 64-bit DX11 2.24.1.50
+App timestamp: 0x594A8D45 
+Offset: 0x000000014B916FF8  
+Exception: 0xC0000005  (STATUS_ACCESS_VIOLATION)
+
+version_system.txt: 2017.06.21.01
+session: 81442172   subSession: 19963685
+name:'Tom Jenkins' custID:276500 role:driver cIdx:10 playerEIdx:10 driverInfoEIdx:10
+mode: web-launched
+track: iowa\oval (night)
+session's cars: safety\pcfr500s stockcars2\nwford2013 stockcars2\nwcamaro2014 stockcars2\camry2015 
+player's car: stockcars2\nwcamaro2014
+
+stack @ 0x00000000112CFC68 
+App Base=0x0000000140000000
+Warning: Trace may contain false entries...
+	0x0000000140A31900 @ +0x0000
+	0x00000001407876CF @ +0x0030
+	0x0000000140786481 @ +0x0090
+	0x000000014078912D @ +0x00E0
+	0x00000001404F5F6E @ +0x0110
+	0x000000014090EE3B @ +0x0140
+	0x000000014090EFE6 @ +0x0170
+	0x0000000140640447 @ +0x01A0
+	0x00000001404F5495 @ +0x01D0
+	0x0000000140508516 @ +0x0200
+	0x000000014090E386 @ +0x0260
+	0x00000001403874DB @ +0x0290
+	0x00000001403876FA @ +0x02C0
+Finished
+Exception Module: -Unknown-
